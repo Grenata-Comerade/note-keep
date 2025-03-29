@@ -1,3 +1,3 @@
 # note-keep
-<br>
+<hr>
 berisi catatan dari keep yang termigrasi
