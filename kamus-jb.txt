@@ -1,0 +1,221 @@
+▰▱▰▱▰▱▰▱▰▱▰
+❐A
+✒A2F = Autentikasi 2 faktor
+✒All = Kos hanya 1 akun terhubung
+✒All rect = Rekaman penghapusan akun
+✒All reff = Tunjukan dana identifikasi
+▰▱▰▱▰▱▰▱▰▱▰
+1
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐B
+✒Bt = Barter
+✒Bu = Butuh uang
+✒Buyer = Pembeli
+▰▱▰▱▰▱▰▱▰▱▰
+2
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐C
+✒Ceein = Ganti email/akun
+✒Cilok = Murah
+✒Clone = Palsu
+✒Close = Tutup
+✒Culik = Tambah group
+✒Cv = Tukar saldo
+▰▱▰▱▰▱▰▱▰▱▰
+3
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐D
+✒Data = Akun
+✒Dana ber = Dana bersama
+✒Delay = Lambat
+✒Direct = Tanpa jasa admin
+✒Done = Selesai
+▰▱▰▱▰▱▰▱▰▱▰
+4
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐E
+✒ Ex = Belum admin
+▰▱▰▱▰▱▰▱▰▱▰
+5
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐F
+✒F = Sialan
+✒Fast = Cepat
+✒Fb = Facebook
+✒Fee = Biaya admin
+✒Femes/famous = Terkenal
+✒Free = gratis
+✒Fresh = Segar/baru
+▰▱▰▱▰▱▰▱▰▱▰
+6
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐G
+✒Ganja = Mahal
+✒Gc = Gerak cepat
+✒Gg = Google
+✒Gober = Gopay bersma
+▰▱▰▱▰▱▰▱▰▱▰
+7
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐H
+✒Harting = Harga tinggi
+✒Hb = Hack balik
+▰▱▰▱▰▱▰▱▰▱▰
+8
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐I
+✒ Inc = Sudah admin
+▰▱▰▱▰▱▰▱▰▱▰
+9
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐J
+✒Japri = Jalur pribadi
+✒Jast post = Jasa posting
+✒JB = Jual Beli
+✒Jibun = Banyak
+▰▱▰▱▰▱▰▱▰▱▰
+10
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐K
+✒Kenon = Ke nonaaktifkan
+✒Kirkon = Kirim kontak
+▰▱▰▱▰▱▰▱▰▱▰
+11
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐L
+✒Linkber = Link bersama
+✒Log = Login
+✒Lol = Tolol
+▰▱▰▱▰▱▰▱▰▱▰
+12
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐M
+✒Mc = Multi chat
+✒Moonsep = Montoon sepaket
+✒Murmer = Murah meriah
+▰▱▰▱▰▱▰▱▰▱▰
+13
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐N
+✒Need = Butuh
+✒Nego = Tawar menwar
+✒Nepis = Nego tipis
+✒Net = Harga pas
+✒No reff = Dana tidak dikembalikan
+✒Nope = Nomor pencarian
+✒Norek = Nomor rekening
+▰▱▰▱▰▱▰▱▰▱▰
+14
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐O
+✒Op = Harga
+✒Open = Buka
+✒Out = Keluar
+✒Ovober = Ovo bersama
+✒Own self = Pemilik akun pribadi
+✒Own-r = Pemilik belum diketahui
+▰▱▰▱▰▱▰▱▰▱▰
+15
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐P
+✒Payment = Pembayaran
+✒Pm = Pesan pribadi
+✒Pt = Partner
+✒Pw = Kata sandi/password
+▰▱▰▱▰▱▰▱▰▱▰
+16
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐Q
+✒Qris = Kode barcode belum premium
+▰▱▰▱▰▱▰▱▰▱▰
+17
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐R
+✒R = Reward
+✒Rect = Rekaman
+✒Reff = Pengembalian dana
+✒Reffun = Semua dana dikembalikan
+✒Rekber = Rekening bersama
+✒Res stok = Stok ulang
+✒Ress = Terjangkau
+✒Ripper = Penipu
+✒Rungkad = Rugi
+▰▱▰▱▰▱▰▱▰▱▰
+18
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐S
+✒Scam = Pembohong
+✒Seller = Penjual
+✒Send = Kirim
+✒Seskun = Sesi kunci
+✒Seslog = Sesi login
+✒SIS P/Penyetor = Akun dulu lalu transfer
+✒Skip = Lewat
+✒Sold = Terjual
+✒Spek = Isi akun
+✒Ss = Screenshot
+▰▱▰▱▰▱▰▱▰▱▰
+19
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐T
+✒Take = Ambil
+✒Take sg mail = beli beserta akun
+✒Testi = Bukti transaksi
+✒Tf = Transfer
+✒Tq = Terima kasih
+✒Trx = Transaksi
+✒Tt = Tukar tambah
+▰▱▰▱▰▱▰▱▰▱▰
+20
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐U
+✒ Uncheck = Akun phising belum di cek
+▰▱▰▱▰▱▰▱▰▱▰
+21
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐V
+✒V2L = Verifikasi 2 akun
+✒Virtex = virus text
+▰▱▰▱▰▱▰▱▰▱▰
+22
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐W
+▰▱▰▱▰▱▰▱▰▱▰
+23
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐X
+▰▱▰▱▰▱▰▱▰▱▰
+24
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐Y
+▰▱▰▱▰▱▰▱▰▱▰
+25
+
+▰▱▰▱▰▱▰▱▰▱▰
+❐Z
+▰▱▰▱▰▱▰▱▰▱▰
+26
